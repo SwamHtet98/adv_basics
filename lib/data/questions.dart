@@ -28,14 +28,6 @@ import 'package:adv_basics/models/quiz_questions.dart';
     QuizQuestions(
     'Why does Flutter use AOT? ( ahead-of-time compilation )?'
   ,[
-    'Unreachable code',
-    'Code that crashes the app',
-    'Runs multiple times Code',
-    'Improves performance'
-  ]),
-    QuizQuestions(
-    'What is dead code in Dart?'
-  ,[
     'Optimizes speed & runtime',
     'Supports dynamic execution',
     'Enables hot reload feature',
